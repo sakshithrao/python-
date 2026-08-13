@@ -1,0 +1,11 @@
+[
+    {
+        "sale_id": "PROD-596F6C63",
+        "product_id": "PROD-161BEE10",
+        "product_name": "Laptop",
+        "quantity": 2,
+        "selling_price": 60000.0,
+        "total_amount": 120000.0,
+        "sale_date": "12-08-2026"
+    }
+]

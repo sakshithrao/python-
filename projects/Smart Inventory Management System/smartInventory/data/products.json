@@ -1,0 +1,10 @@
+[
+    {
+        "product_id": "PROD-161BEE10",
+        "name": "Laptop",
+        "category": "Electronics",
+        "purchase_price": 50000.0,
+        "selling_price": 60000.0,
+        "quantity": 12
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "purchase_id": "PROD-F0962A68",
+        "product_id": "PROD-161BEE10",
+        "product_name": "Laptop",
+        "supplier": "RAMESH",
+        "quantity": 4,
+        "purchase_price": 50000.0,
+        "total_amount": 200000.0,
+        "purchase_date": "12-08-2026"
+    }
+]

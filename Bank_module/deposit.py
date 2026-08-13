@@ -1,4 +1,6 @@
 from bank import accounts
+from emailsend import send_email
+
 
 
 def deposit(account, amount):
